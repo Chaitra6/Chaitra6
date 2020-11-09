@@ -1,6 +1,6 @@
 ### Hi there, I'm Chaitra 👋
 
-https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif
+https://giphy.com/gifs/USV0ym3bVWQJJmNu3N/html5
 
 Here are some ideas to get you started:
 

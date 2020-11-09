@@ -1,7 +1,7 @@
 ### Hi there, I'm Chaitra 👋
 
 >A Full Stack Developer 🚀 from India, currently, I'm a working on Full Stack CapStone Projects in FACEPrep. Beside's programming, I'm a foodie, love to read novels and my favorite genres are thriller and Science fiction.
-![c1](https://user-images.githubusercontent.com/48185350/98538140-532d5380-22b0-11eb-87b5-842a9738ef22.gif=100x20) 
+
 
 Here are some ideas to get you started:
 
@@ -16,8 +16,12 @@ Here are some ideas to get you started:
  * 👔  <a href="https://www.canva.com/design/DAEM6bG-G9E/sL5QjYOEdRS4cPZsLdA18g/view?utm_content=DAEM6bG-G9E&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton"><b>RESUME</b> </a> 
 
 
-
-html5 css3 javascript java mysql angularjs bootstrap git oracle 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+ <a href="https://www.w3.org/html/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/angularjs/angularjs-original.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/> </a>  <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
+ <a href="https://www.oracle.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a><a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
+   <a href="https://spring.io/" target="_blank"> <img src="https://images.app.goo.gl/Ht7ChZqpnwHBGhFi9" alt="spring" width="40" height="40"/> </a>
+ </p>
 
   
   

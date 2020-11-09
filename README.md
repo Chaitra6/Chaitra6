@@ -22,6 +22,11 @@ Here are some ideas to get you started:
  <a href="https://www.oracle.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a><a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
    <a href="https://spring.io/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/spring-logo.png" alt="spring" width="40" height="40"/> </a>
  </p>
+ 
+  ---
+<img align="left" alt="Chaitra H Github Stats" src="https://github-readme-stats.vercel.app/api?username=Chaitra6&show_icons=true&hide_border=true"/>
+<br/>
+<br/>
 
   
   

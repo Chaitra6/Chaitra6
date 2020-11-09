@@ -1,7 +1,6 @@
-### Hi there 👋
+### Hi there, I'm Chaitra 👋
 
-<!--
-**Chaitra6/Chaitra6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif
 
 Here are some ideas to get you started:
 

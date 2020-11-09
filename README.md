@@ -1,6 +1,7 @@
 ### Hi there, I'm Chaitra 👋
 
 >A Full Stack Developer 🚀 from India, currently, I'm a working on Full Stack CapStone Projects in FACEPrep. Beside's programming, I'm a foodie, love to read novels and my favorite genres are thriller and Science fiction.
+![c1](https://user-images.githubusercontent.com/48185350/98538140-532d5380-22b0-11eb-87b5-842a9738ef22.gif=100x)
 
 Here are some ideas to get you started:
 
@@ -14,7 +15,9 @@ Here are some ideas to get you started:
   
  * 👔  <a href="https://www.canva.com/design/DAEM6bG-G9E/sL5QjYOEdRS4cPZsLdA18g/view?utm_content=DAEM6bG-G9E&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton"><b>RESUME</b> </a> 
 
-![html5](C:\Users\User\Pictures\html5.png?raw=true)
+
+
+html5 css3 javascript java mysql angularjs bootstrap git oracle 
 
   
   

@@ -2,8 +2,7 @@
 
 A Full Stack Developer 🚀 from India, currently, I'm a working on CapStone Projects in FACEPrep. Beside's programming, I'm a foodie, love to read novels and my favorite genres are Thriller, Horror and Science fiction.
 
-
-- 🔭 I’m currently working on Ecommerce Application                                                  
+                                                
 - 🌱 I’m currently learning to code better Full Stack Apps
 - 👯 I’m looking to collaborate on Web Dev Projects
 - 💬 Ask me about Java and Motivation 😄

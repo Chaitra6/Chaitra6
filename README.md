@@ -1,6 +1,6 @@
 ### Hi there, I'm Chaitra 👋
 
-A Full Stack Developer 🚀 from India. Beside's programming, I'm a foodie, love to read novels and my favorite genres are Thriller, Horror and Science fiction.
+A Full Stack Developer 🚀 from India. Besides programming, I'm a foodie, love gardening, read novels and my favorite genres are Thriller, Horror and Science fiction.
 
                                                 
 - 🌱 I’m currently learning to code better Full Stack Apps
